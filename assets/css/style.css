@@ -13,6 +13,7 @@ body {
     height: 100%;
     display: flex;
     flex-direction: column;
+    overflow: scroll;
 }
 
 .wrapper {
@@ -20,16 +21,6 @@ body {
 }
 
 .top {
-    /* display: grid;
-    grid-template-columns: 15.5% 10% 40% 5% 5% 5% 5% 14.5%;
-    grid-column-gap: 0px;
-    position: sticky;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #ffffff;
-    height: 5rem;
-    box-shadow: 0rem .1rem #cccccc; */
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -42,9 +33,7 @@ body {
     box-shadow: 0rem .1rem #cccccc;
 }
 
-/*left positioning will have to be set with media query for responsiveness?  Font size too?*/
 .name {
-    /* grid-column: 2 / 3; */
     margin-left: 15.5%;
     width: 11%;
     font-family: 'Georgia', Times, Times New Roman, serif;

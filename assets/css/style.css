@@ -52,7 +52,10 @@ body {
     border-right: .05rem solid #cccccc;
     border-left: .05rem solid #cccccc;
     margin-left: auto;
-    padding: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+    height: 5rem;
+    line-height: 5rem;
 }
 
 .link2 {
@@ -60,7 +63,10 @@ body {
     font-size: .875rem;
     color: #777777;
     border-right: .05rem solid #cccccc;
-    padding: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+    height: 5rem;
+    line-height: 5rem;
 }
 
 .link3 {
@@ -68,7 +74,10 @@ body {
     font-size: .875rem;
     color: #777777;
     border-right: .05rem solid #cccccc;
-    padding: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+    height: 5rem;
+    line-height: 5rem;
 }
 
 .link4 {
@@ -76,7 +85,10 @@ body {
     font-size: .875rem;
     color: #777777;
     border-right: .05rem solid #cccccc;
-    padding: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+    height: 5rem;
+    line-height: 5rem;
     margin-right: 0%;
 }
 
@@ -266,42 +278,52 @@ footer {
     .name {
         width: 100%;
         margin: 0%;
+        height: 2.5rem;
+        line-height: 2.5rem;
     }
 
     .link1 {
         margin: 0%;
         background-color: #ffffff;
-        height: 5rem;
-        line-height: 5rem;
+        height: 2.5rem;
+        line-height: 2.5rem;
         box-shadow: 0rem .1rem #cccccc;
         width: 25%;
+        padding-top: 0%;
+        padding-bottom: 0%;
     }
 
     .link2 {
         margin: 0%;
         background-color: #ffffff;
-        height: 5rem;
-        line-height: 5rem;
+        height: 2.5rem;
+        line-height: 2.5rem;
         box-shadow: 0rem .1rem #cccccc;
         width: 25%;
+        padding-top: 0%;
+        padding-bottom: 0%;
     }
 
     .link3 {
         margin: 0%;
         background-color: #ffffff;
-        height: 5rem;
-        line-height: 5rem;
+        height: 2.5rem;
+        line-height: 2.5rem;
         box-shadow: 0rem .1rem #cccccc;
         width: 25%;
+        padding-top: 0%;
+        padding-bottom: 0%;
     }
 
     .link4 {
         margin: 0%;
         background-color: #ffffff;
-        height: 5rem;
-        line-height: 5rem;
+        height: 2.5rem;
+        line-height: 2.5rem;
         box-shadow: 0rem .1rem #cccccc;
         width: 25%;
+        padding-top: 0%;
+        padding-bottom: 0%;
     }
 
     .subHeads {
